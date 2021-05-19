@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\myC"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"_mingw_print_pop.h": "c"
+		}
+	}
+}
