@@ -6,19 +6,25 @@ void main()
     //     sum += i;
     // printf("%d\n", sum);
 
-    int sum=0;
-    int i=1;    //1 2 3 4 5 10
-    while(i<=100)   
+    // int sum=0;
+    // int i=1;    //1 2 3 4 5 10
+    // while(i<=100)   
+    // {
+    //     if(i>10)    //11>10
+    //     {
+    //         break;
+    //     }
+    //     sum+=i; //1 3 6 10
+    //     i++;
+    // }
+    // printf("%d\n", sum);
+    // printf("%d\n", i);
+
+    int i=11;
+    while(i<=10)
     {
-        if(i>10)    //11>10
-        {
-            break;
-        }
-        sum+=i; //1 3 6 10
-        i++;
+        printf("Hello world!\n");
     }
-    printf("%d\n", sum);
-    printf("%d\n", i);
 
 }
 
