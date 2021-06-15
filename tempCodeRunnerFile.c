@@ -1,1 +1,1 @@
-lse 
+scanf(
