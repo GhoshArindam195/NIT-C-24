@@ -1,1 +1,2 @@
-scanf(
+
+    printf("%d\n", n);
