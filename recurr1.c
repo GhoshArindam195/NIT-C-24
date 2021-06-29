@@ -1,5 +1,5 @@
 #include<stdio.h>
-void display(int s, int n)  //1, 5 //2, 5 //3, 5 //4, 5 //5, 5 //6, 5
+void display(int s, int n)
 {
     if(s<=n)
     {
