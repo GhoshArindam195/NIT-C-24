@@ -1,2 +1,1 @@
-
-    printf("%d\n", n);
+#include<stdio.h>
