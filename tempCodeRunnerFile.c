@@ -1,1 +1,1 @@
-#include<stdio.h>
+Hello NI
