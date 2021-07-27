@@ -1,1 +1,1 @@
-gets(name);
+strrev(s1)
