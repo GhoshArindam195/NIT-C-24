@@ -1,5 +1,5 @@
 #include<stdio.h>
-long long decToBinary(int dec)
+long long decToBinary(int dec)  //Formal Param
 {
     long long resBin=0;
     int arr[100];
@@ -26,7 +26,7 @@ void main()
     printf("Enter a decimal number: \n");
     scanf("%d", &dec);
 
-    long long resBin = decToBinary(dec);
+    long long resBin = decToBinary(dec);    //Actual Param
     printf("%lld", resBin);
 
 }
